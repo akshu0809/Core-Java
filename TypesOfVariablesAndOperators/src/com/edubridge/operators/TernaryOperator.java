@@ -1,5 +1,6 @@
 package com.edubridge.operators;
 import java.util.Scanner;
+@SuppressWarnings("unused")
 public class TernaryOperator {
 
 	public static void main(String[] args) {
